@@ -19,7 +19,7 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" height="30" width="40" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg?short_path=744014d" height="30" width="40">
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg?short_path=744014d" height="30">
     <img  align="center" height="30" src="https://camo.githubusercontent.com/98c835566bae35eab51c05d004bf08bdbcb287186f492e1aeb20fa37f71ca7ca/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f736173732d31332d313137353039322e706e67">
 
   <h1 align="center">Social Medias</h1>
