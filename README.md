@@ -31,4 +31,4 @@
 </div>
   
   
-![Snake animation](https://github.com/Gugu21v1/Gugu21v1/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Gugu21v1/Gugu21v1/blob/output/github-contribution-grid-snake.svg)
